@@ -14,7 +14,9 @@ These are the modules that we used to get the data.
 
 ## Reading In The Data From Files/Databases:
 This is how we read-in the data:
+1. Stock Tickers Price Data
 ![](get_ticker_code.png)
+2. Stock Ticker Company Financial & Summary Data
 
 ## Cleaning & Organizing The Ticker & Price Data:
 
