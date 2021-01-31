@@ -9,6 +9,7 @@ Project 1 FIntech
 
 # The Project
 ## Gathering the Python Modules:
+These are the modules that we used to get the data.
 ![](python_imports2.png) 
 
 ## Reading In The Data From Files/Databases:
