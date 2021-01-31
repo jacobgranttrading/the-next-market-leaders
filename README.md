@@ -5,3 +5,26 @@ Project 1 FIntech
 # We will ask questions such as what is the company's current and past revenue, gross profit, stock price and projected performance.
 # From this information, we will identify industry and market leaders with potential to grow exponentially. 
 # We look to provide investors with high quality companies that are projected to give high returns based on real time data.
+
+
+# The Project
+## Gathering the Python Modules:
+
+
+## Reading In The Data From Files/Databases:
+
+
+## Cleaning & Organizing The Ticker & Price Data:
+
+## Resultant Ticker & Price Tables:
+
+
+## Ranking The Tickers:
+
+## Producing The Top Ticker List:
+
+## Displaying the Charts:
+
+## Final Analysis:
+
+
