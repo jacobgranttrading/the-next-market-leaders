@@ -22,7 +22,8 @@ This is how we read-in the data:
 ## Cleaning & Organizing The Ticker & Price Data:
 
 ## Resultant Ticker & Price Tables:
-
+- This is the 1st combined dataframe of the stock price & summary info:
+![](Unique_Summary_Table_DF.png)
 
 ## Ranking The Tickers:
 
