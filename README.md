@@ -9,7 +9,7 @@ Project 1 FIntech
 
 # The Project
 ## Gathering the Python Modules:
-![Import Python Code](python_imports2.png) 
+![](ˆpython_imports2.png) 
 
 ## Reading In The Data From Files/Databases:
 
