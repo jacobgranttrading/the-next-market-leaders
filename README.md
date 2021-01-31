@@ -18,7 +18,6 @@ This is how we read-in the data:
 ![](get_ticker_code.png)
 2. Stock Ticker Company Financial & Summary Data
 ![](get_summary_code.png)
-
 ## Cleaning & Organizing The Ticker & Price Data:
 
 ## Resultant Ticker & Price Tables:
@@ -28,6 +27,8 @@ This is how we read-in the data:
 ## Ranking The Tickers:
 1. This is the Communications & Consumer Sector Rankings:
 ![](Rank_Tables_1.png)
+2. These are the Energy & Financial Sector Rankings:
+![](Rank_Tables_2.png)
 ## Producing The Top Ticker List:
 
 ## Displaying the Charts:
