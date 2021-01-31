@@ -43,6 +43,8 @@ These were the top ranking tickers in each sector:
 
 ## Displaying the Charts:
 
+Top Ranking Stock Ticker QCOM Candlestick Chart:
+![](QCOM_candlestick.png)
 
 ## Final Analysis:
 
