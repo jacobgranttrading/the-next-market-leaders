@@ -26,7 +26,8 @@ This is how we read-in the data:
 ![](Unique_Summary_Table_DF.png)
 
 ## Ranking The Tickers:
-
+1. This is the Communications & Consumer Sector Rankings:
+![](Rank_Tables_1.png)
 ## Producing The Top Ticker List:
 
 ## Displaying the Charts:
