@@ -29,6 +29,8 @@ This is how we read-in the data:
 ![](Rank_Tables_1.png)
 2. These are the Energy & Financial Sector Rankings:
 ![](Rank_Tables_2.png)
+3. This is the Tech Sector Rankings:
+![](Tech_Sector_Rankings.png)
 ## Producing The Top Ticker List:
 
 ## Displaying the Charts:
