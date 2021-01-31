@@ -25,14 +25,17 @@ This is how we read-in the data:
 ![](Unique_Summary_Table_DF.png)
 
 ## Ranking The Tickers:
-1. This is the Communications & Consumer Sector Rankings:
+1. These are the Communications & Consumer Sector Rankings:
 ![](Rank_Tables_1.png)
 2. These are the Energy & Financial Sector Rankings:
 ![](Rank_Tables_2.png)
-3. This is the Tech Sector Rankings:
+3. These are the Tech Sector Rankings:
 ![](Tech_Sector_Rankings.png)
 4. These are the Healthcare Rankings:
 ![](Healthcare_Ticker_Rankings.png)
+5. These are the Industrial Rankings:
+![](Industrial_Ticker_Rankings.png)
+
 ## Producing The Top Ticker List:
 
 ## Displaying the Charts:
