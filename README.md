@@ -31,6 +31,8 @@ This is how we read-in the data:
 ![](Rank_Tables_2.png)
 3. This is the Tech Sector Rankings:
 ![](Tech_Sector_Rankings.png)
+4. These are the Healthcare Rankings:
+![](Healthcare_Ticker_Rankings.png)
 ## Producing The Top Ticker List:
 
 ## Displaying the Charts:
