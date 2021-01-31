@@ -13,7 +13,8 @@ These are the modules that we used to get the data.
 ![](python_imports2.png) 
 
 ## Reading In The Data From Files/Databases:
-
+This is how we read-in the data:
+![](get_ticker_code.png)
 
 ## Cleaning & Organizing The Ticker & Price Data:
 
