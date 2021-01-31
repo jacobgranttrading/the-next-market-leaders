@@ -41,7 +41,9 @@ This is how we read-in the data:
 These were the top ranking tickers in each sector:
 ![](Top_Ticker_Picks.png)
 
-## Displaying the Charts:
+### Displaying the Charts:
+ALGN Candlestick Chart:
+![](Candlestick_Pictures_top_picks/ALGN Chart .png)
 
 Top Ranking Stock Ticker QCOM Candlestick Chart:
 ![](QCOM_candlestick.png)
