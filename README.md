@@ -9,7 +9,7 @@ Project 1 FIntech
 
 # The Project
 ## Gathering the Python Modules:
-![](ˆpython_imports2.png) 
+![](~/Desktop/python_imports2.png) 
 
 ## Reading In The Data From Files/Databases:
 
