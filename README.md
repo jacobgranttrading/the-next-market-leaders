@@ -24,7 +24,7 @@ This is how we read-in the data:
 - This is the 1st combined dataframe of the stock price & summary info:
 ![](Unique_Summary_Table_DF.png)
 
-## Ranking The Tickers:
+## Charts & Analysis:
 ### (Sum Total column indicates the ranking values)
 1. These are the Communications & Consumer Sector Rankings:
 ![](Rank_Tables_1.png)
@@ -37,11 +37,12 @@ This is how we read-in the data:
 5. These are the Industrial Rankings:
 ![](Industrial_Ticker_Rankings.png)
 
-## Producing The Top Ticker List:
+### Top Ranking Tickers:
 These were the top ranking tickers in each sector:
 ![](Top_Ticker_Picks.png)
 
 ## Displaying the Charts:
+
 
 ## Final Analysis:
 
