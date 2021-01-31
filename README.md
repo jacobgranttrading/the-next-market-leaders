@@ -25,6 +25,7 @@ This is how we read-in the data:
 ![](Unique_Summary_Table_DF.png)
 
 ## Ranking The Tickers:
+### (Sum Total column indicates the ranking values)
 1. These are the Communications & Consumer Sector Rankings:
 ![](Rank_Tables_1.png)
 2. These are the Energy & Financial Sector Rankings:
@@ -37,6 +38,8 @@ This is how we read-in the data:
 ![](Industrial_Ticker_Rankings.png)
 
 ## Producing The Top Ticker List:
+These were the top ranking tickers in each sector:
+![](Top_Ticker_Picks.png)
 
 ## Displaying the Charts:
 
