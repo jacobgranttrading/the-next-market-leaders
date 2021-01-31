@@ -1,0 +1,76 @@
+Basic Materials,AMRS,0.0
+Communication Services,ATVI,2.0
+Communication Services,FB,0.534
+Communication Services,GOOGL,0.62
+Communication Services,GRVY,1.824
+Communication Services,LILA,0.0
+Communication Services,NFLX,-0.085
+Communication Services,TTWO,0.365
+Communication Services,ZM,86.96799999999999
+Consumer Cyclical,GRWG,1.041
+Consumer Cyclical,HD,0.257
+Consumer Cyclical,JMIA,0.0
+Consumer Cyclical,TSLA,0.6940000000000001
+Energy,BP,-0.977
+Energy,COP,-0.8290000000000001
+Energy,CVX,0.38799999999999996
+Energy,EQT,0.0
+Energy,HAL,-0.321
+Energy,LNG,1.6480000000000001
+Energy,MUR,11.591
+Energy,OKE,-0.054000000000000006
+Energy,PSX,-0.504
+Energy,VLO,1.089
+Energy,WMB,0.389
+Energy,XOM,-0.49200000000000005
+Financial Services,AFL,2.3080000000000003
+Financial Services,KKR,3.1710000000000003
+Financial Services,PYPL,1.205
+Financial Services,SIVB,0.46399999999999997
+Financial Services,UNM,-0.026000000000000002
+Financial Services,VIRT,0.0
+Financial Services,WTM,3.915
+Healthcare,ALGN,0.375
+Healthcare,APHA,-0.273
+Healthcare,BSX,-0.9740000000000001
+Healthcare,CGC,0.0
+Healthcare,CRON,-0.8859999999999999
+Healthcare,HEXO,0.0
+Healthcare,HSIC,0.044000000000000004
+Healthcare,INCY,1.75
+Healthcare,OGI,0.0
+Healthcare,SYK,-0.21600000000000003
+Healthcare,UNH,-0.375
+Healthcare,VAR,0.094
+Industrials,AAL,0.188
+Industrials,AGCO,19.928
+Industrials,AL,-0.239
+Industrials,BA,-0.496
+Industrials,DAL,0.203
+Industrials,EAF,-0.423
+Industrials,GNRC,0.542
+Industrials,LMT,0.207
+Industrials,LUV,0.139
+Industrials,MAS,1.435
+Industrials,ROK,0.902
+Industrials,SPCE,0.0
+Industrials,UAL,0.308
+Industrials,VRSK,4.6
+Technology,AAPL,0.34700000000000003
+Technology,AMD,9.136000000000001
+Technology,COHR,11.447000000000001
+Technology,CSCO,-0.25
+Technology,EGOV,0.762
+Technology,FSLR,4.0
+Technology,INTC,-0.09699999999999999
+Technology,JBL,4.038
+Technology,MSFT,0.344
+Technology,MU,0.6459999999999999
+Technology,NCR,1.148
+Technology,NLOK,-0.91
+Technology,PTC,-0.35
+Technology,QCOM,5.229
+Technology,RIOT,0.0
+Technology,SNX,0.213
+Technology,TTD,1.1
+Technology,XRX,-0.899
