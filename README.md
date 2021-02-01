@@ -43,9 +43,35 @@ These were the top ranking tickers in each sector:
 
 ## Displaying the Charts:
 
-Top Ranking Stock Ticker QCOM Candlestick Chart:
+ALGN Candlestick Chart:
+![](Candlestick_Pictures_top_picks/ALGN Chart .png)
+
+ATVI Candlestick Chart:
+![](Candlestick_Pictures_top_picks/ATVI Chart.png)
+
+FB Candlestick Chart:
+![](Candlestick_Pictures_top_picks/FB Chart.png)
+
+GRWG Candlestick Chart:
+![](Candlestick_Pictures_top_picks/FB Chart.png)
+
+LNG Candlestick Chart:
+![](Candlestick_Pictures_top_picks/LNG Chart.png)
+
+MAS Candlestick Chart:
+![](Candlestick_Pictures_top_picks/LNG Chart.png)
+
+QCOM Candlestick Chart:
 ![](QCOM_candlestick.png)
 
-## Final Analysis:
+WTM Candlestick Chart:
+![](Candlestick_Pictures_top_picks/WTM Chart.png)
 
+ZM Candlestick Chart:
+![](Candlestick_Pictures_top_picks/ZM Chart.png)
+
+## Final Analysis:
+1. All of the top tickers looked to be at a place of strength going into the 1/22 weekend. Each stock was closer to the high of their 2-year high & low range. This favors with the theory of purchasing stock on strength and not from a place of weakness.
+2. The rankings of the stocks were based on EPS (earnings per share), quarterly revenue YOY, & profit margin. These 3 measures look to be part of an equation that produces a system of pulling stock tickers that are near a strength within their sector.
+3. This is a start in selecting stocks (likely for short-term transactions/options).
 
