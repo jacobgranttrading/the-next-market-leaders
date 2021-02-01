@@ -43,6 +43,9 @@ These were the top ranking tickers in each sector:
 
 ## Displaying the Charts:
 
+ATVI Candlestick Chart:
+![](Candlestick_Pictures_top_picks/ATVI Chart.png)
+
 Top Ranking Stock Ticker QCOM Candlestick Chart:
 ![](QCOM_candlestick.png)
 
