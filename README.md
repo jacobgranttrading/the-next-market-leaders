@@ -44,7 +44,7 @@ These were the top ranking tickers in each sector:
 ## Displaying the Charts:
 
 ALGN Candlestick Chart:
-![](ALGN Chart .png)
+![](ALGN_Chart.png)
 
 ATVI Candlestick Chart:
 ![](Candlestick_Pictures_top_picks/ATVI Chart.png)
