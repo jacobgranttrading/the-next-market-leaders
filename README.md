@@ -44,31 +44,31 @@ These were the top ranking tickers in each sector:
 ## Displaying the Charts:
 
 ALGN Candlestick Chart:
-![](Candlestick_Pictures_top_picks/ALGN Chart .png)
+![](Candlestick_Pictures_top_picks/ALGN_Chart .png)
 
 ATVI Candlestick Chart:
-![](Candlestick_Pictures_top_picks/ATVI Chart.png)
+![](Candlestick_Pictures_top_picks/ATVI_Chart.png)
 
 FB Candlestick Chart:
-![](Candlestick_Pictures_top_picks/FB Chart.png)
+![](Candlestick_Pictures_top_picks/FB_Chart.png)
 
 GRWG Candlestick Chart:
-![](Candlestick_Pictures_top_picks/FB Chart.png)
+![](Candlestick_Pictures_top_picks/FB_Chart.png)
 
 LNG Candlestick Chart:
-![](Candlestick_Pictures_top_picks/LNG Chart.png)
+![](Candlestick_Pictures_top_picks/LNG_Chart.png)
 
 MAS Candlestick Chart:
-![](Candlestick_Pictures_top_picks/LNG Chart.png)
+![](Candlestick_Pictures_top_picks/LNG_Chart.png)
 
 QCOM Candlestick Chart:
 ![](QCOM_candlestick.png)
 
 WTM Candlestick Chart:
-![](Candlestick_Pictures_top_picks/WTM Chart.png)
+![](Candlestick_Pictures_top_picks/WTM_Chart.png)
 
 ZM Candlestick Chart:
-![](Candlestick_Pictures_top_picks/ZM Chart.png)
+![](Candlestick_Pictures_top_picks/ZM_Chart.png)
 
 ## Final Analysis:
 1. All of the top tickers looked to be at a place of strength going into the 1/22 weekend. Each stock was closer to the high of their 2-year high & low range. This favors with the theory of purchasing stock on strength and not from a place of weakness.
